@@ -64,6 +64,10 @@ npm start
 
 > Please refer to the API documentation for detailed information on each endpoint.
 
+## API Documentation
+
+Comprehensive API documentation with interactive examples is available [here](<your-external-link>).
+
 ## Tests
 
 To run the tests:
